@@ -1,0 +1,14 @@
+Test Case ID: TC_LOGIN_007
+
+Title: Verify Remember Me functionality
+
+Steps:
+1. Check Remember Me
+2. Login successfully
+3. Close browser
+4. Reopen application
+
+Expected Result:
+User remains logged in
+
+Priority: Medium
