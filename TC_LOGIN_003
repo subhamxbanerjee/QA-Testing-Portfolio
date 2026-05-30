@@ -1,0 +1,13 @@
+Test Case ID: TC_LOGIN_003
+
+Title: Verify email validation
+
+Steps:
+1. Enter abcgmail.com
+2. Enter password
+3. Click Login
+
+Expected Result:
+Email validation error displayed
+
+Priority: Medium
