@@ -1,0 +1,13 @@
+Test Case ID: TC_LOGIN_005
+
+Title: Verify login without password
+
+Steps:
+1. Enter valid email
+2. Leave password blank
+3. Click Login
+
+Expected Result:
+Password required message displayed
+
+Priority: High
