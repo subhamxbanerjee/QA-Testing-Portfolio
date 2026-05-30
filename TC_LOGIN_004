@@ -1,0 +1,13 @@
+Test Case ID: TC_LOGIN_004
+
+Title: Verify login with empty fields
+
+Steps:
+1. Leave email blank
+2. Leave password blank
+3. Click Login
+
+Expected Result:
+Required field validation message displayed
+
+Priority: High
