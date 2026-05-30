@@ -1,0 +1,11 @@
+Test Case ID: TC_LOGIN_009
+
+Title: Verify protection against SQL Injection
+
+Input:
+' OR 1=1 --
+
+Expected Result:
+Login should fail
+
+Priority: High
