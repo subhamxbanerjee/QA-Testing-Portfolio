@@ -1,0 +1,11 @@
+Test Case ID: TC_LOGIN_006
+
+Title: Verify password masking
+
+Steps:
+1. Enter password
+
+Expected Result:
+Password displayed as dots or asterisks
+
+Priority: Medium
